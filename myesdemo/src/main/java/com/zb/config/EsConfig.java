@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 public class EsConfig {
     @Value("${my.es}")
     private String esHost;
-
+//3333333
     @Bean
     public RestHighLevelClient client() {
         String[] strs = esHost.split(",");
