@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5402f808-4cd5-484d-be6d-ff741876c3b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNPubf4fIyC0t9e4y1VEoftkVc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582686469914" />
+    <property name="last_opened_file_path" value="E:/zhoukao15 - 副本" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestIndex.queryAll">
+    <configuration name="TestIndex.queryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryBool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryBool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryHight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryHight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryMultiMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryMultiMatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myesdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zb.EsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestIndex.queryMultiMatch" />
+      <item itemvalue="JUnit.TestIndex.queryBool" />
+      <item itemvalue="JUnit.TestIndex.queryFilter" />
+      <item itemvalue="JUnit.TestIndex.queryHight" />
+      <item itemvalue="JUnit.TestIndex.queryAll" />
+      <item itemvalue="Spring Boot.EsApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestIndex.queryAll" />
+        <item itemvalue="JUnit.TestIndex.queryHight" />
+        <item itemvalue="JUnit.TestIndex.queryFilter" />
+        <item itemvalue="JUnit.TestIndex.queryBool" />
+        <item itemvalue="JUnit.TestIndex.queryMultiMatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5402f808-4cd5-484d-be6d-ff741876c3b9" name="Default Changelist" comment="" />
+      <created>1582512621323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582512621323</updated>
+      <workItem from="1582512628822" duration="3653000" />
+      <workItem from="1582678775010" duration="7898000" />
+      <workItem from="1582780304583" duration="2434000" />
+      <workItem from="1582789901722" duration="1799000" />
+      <workItem from="1582941131425" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1582942512226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582942512226" />
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom" timestamp="1582781546079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582781546079" />
+    <state width="1493" height="308" key="GridCell.Tab.0.center" timestamp="1582781546079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582781546079" />
+    <state width="1493" height="308" key="GridCell.Tab.0.left" timestamp="1582781546079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582781546079" />
+    <state width="1493" height="308" key="GridCell.Tab.0.right" timestamp="1582781546079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582781546079" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1582780356531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582780356531" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1582941138553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582941138553" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
